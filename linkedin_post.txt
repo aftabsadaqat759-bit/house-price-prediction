@@ -1,0 +1,28 @@
+
+LINKEDIN POST CONTENT
+======================
+
+PROJECT: House Price Prediction with Linear Regression
+
+KEY METRICS:
+• R² Score: 0.5200
+• MAE: $58,482.14
+• RMSE: $77,905.62
+• MAPE: 35.75%
+
+TOP INSIGHTS:
+1. Median Income drives prices (+$97,350 per standard deviation)
+2. Model explains 52.0% of price variance
+3. Cross-validation confirms stability (mean R²: 0.4990)
+
+VISUALIZATIONS:
+• feature_importance.png (shows income as key driver)
+• correlation_heatmap.png (shows feature relationships)
+• predictions_vs_actual.png (shows model performance)
+• residual_analysis.png (shows model diagnostics)
+
+RECOMMENDED HASHTAGS:
+#DataScience #MachineLearning #Python #Regression #HousingMarket #Analytics #PortfolioProject
+
+GITHUB LINK:
+[Add your GitHub repository link here]
