@@ -1,4 +1,3 @@
-
 # Virtual Environment
 venv/
 env/
@@ -9,6 +8,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.py[cod]
+*$py.class
 *.so
 *.dll
 
@@ -23,10 +24,6 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Large data files (optional - comment out if you want to include data)
-# *.csv
-# *.pkl
 
 # Environment variables
 .env
